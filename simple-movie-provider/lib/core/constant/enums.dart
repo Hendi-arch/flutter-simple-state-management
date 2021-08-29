@@ -1,0 +1,1 @@
+enum AppState { add, update }
