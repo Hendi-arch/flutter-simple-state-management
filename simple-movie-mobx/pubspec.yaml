@@ -25,11 +25,11 @@ dependencies:
     sdk: flutter
 
   # state management
-  mobx: ^2.0.4
+  mobx: ^2.0.5
   flutter_mobx: ^2.0.2
 
   # inject mobx store
-  provider: ^6.0.0
+  provider: ^6.0.1
 
   # dependency injection
   get_it: ^7.2.0
